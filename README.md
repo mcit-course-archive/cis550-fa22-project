@@ -1,16 +1,12 @@
 # Forx News
 
-<img src="client/public/github/forxnews.png" alt="forxnews" width="500">
-
 ## Description
 
-Forx News is a restaurant review website based on Yelp datasets. It aims to help users search restaurants in a simplistic way, and present them with insightful restaurant reviews.
+Forx News is the course project for CIS 550 Databases & Information System (Fall 2022) at the University of Pennsylvania. It showcases a sample restaurant review website with features such as restaurant searching and recommendation using SQL. 
 
-Project Wiki: [https://forx-news.gitbook.io/forx-news-wiki](https://forx-news.gitbook.io/forx-news-wiki)
+This is an academic project for non-commercial purposes, and the project itself is not associated with any public datasets now that the course has ended and the datasets are no longer needed. 
 
-Demo Video: [https://youtu.be/nuDBwg3mG6o](https://youtu.be/nuDBwg3mG6o)
-
-Deployment on Heroku: [https://forxnews.herokuapp.com](https://forxnews.herokuapp.com/)
+Please contact the author ([ruichen199801@gmail.com]()) if you have any questions or concerns.
 
 ## Tech Stack
 
@@ -19,6 +15,17 @@ Deployment on Heroku: [https://forxnews.herokuapp.com](https://forxnews.herokuap
 ## System Architecture
 
 <img src="client/public/github/architecture.png" alt="architecture" width="800">
+
+## Demo Screenshots
+
+<img src="client/public/github/demo-1.png" alt="demo-1" width="500">
+<img src="client/public/github/demo-2.png" alt="demo-2" width="500">
+<img src="client/public/github/demo-3.png" alt="demo-3" width="500">
+<img src="client/public/github/demo-4.png" alt="demo-4" width="500">
+<img src="client/public/github/demo-5.png" alt="demo-5" width="500">
+<img src="client/public/github/demo-6.png" alt="demo-6" width="500">
+<img src="client/public/github/demo-7.png" alt="demo-7" width="500">
+<img src="client/public/github/demo-8.png" alt="demo-8" width="500">
 
 ## Folder Structure
 
